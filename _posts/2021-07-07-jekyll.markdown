@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Jekyll"
+date: 2021-07-07
+categories: development
+---
+
+Migrated my site over to the Jekyll framework. Hexo was good but Jekyll is far more mature and is much more flexible.
